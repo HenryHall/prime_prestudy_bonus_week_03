@@ -1,0 +1,33 @@
+body {
+  background-color: #222222;
+}
+
+h1 {
+  text-align: Center;
+}
+
+table, td {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+table {
+  display: inline;
+  margin: 10px;
+  margin-right: 10%;
+  float: right;
+  background-color: #000099;
+  box-shadow: inset -30px -30px 100px #990020;
+  color: #00ff00;
+}
+
+button {
+  font-size: 3em;
+  margin: 10px;
+  margin-left: 10%;
+  height: 200px;
+  width 200px;
+  border-radius:50%;
+  box-shadow: inset -30px -30px 100px #220090;
+  background-color: #990000
+}
